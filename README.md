@@ -1,6 +1,6 @@
 ## Hello, I'm Abdalla
 
-  Computer Science student at ASU Ain Shams UNiversity<br/>
+  Computer Science student at ASU Ain Shams University<br/>
   
 
 ## 🌐 Socials:
